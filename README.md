@@ -32,15 +32,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cheroo30/Cheroo30/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -64,6 +56,7 @@
 ## 🌟 Projects
 
 - **[Gmovies](https://github.com/Cheroo30/Gmovies)**: A React-based movie browsing application with Firebase integration. Features include user authentication, etc.
+- **[bookWeb](https://github.com/Cheroo30/bookWeb)**: Book web with admin page.
 
 
 
