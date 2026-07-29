@@ -53,12 +53,6 @@
 
 <br/><br/>
 
-## 🌟 Projects
-
-- **[Gmovies](https://github.com/Cheroo30/Gmovies)**: A React-based movie browsing application with Firebase integration. Features include user authentication, etc.
-- **[bookWeb](https://github.com/Cheroo30/bookWeb)**: Book web with admin page.
-
-
 
 *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”* – Albert Schweitzer
 
